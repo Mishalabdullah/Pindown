@@ -48,7 +48,7 @@ function Navbar() {
                   href="/"
                   className="text-white font-bold text-4xl hover:bg-gradient-to-r from-purple-600 to-pink-600 hover:text-transparent hover:bg-clip-text"
                 >
-                  PINDOWN
+                  PINDROP
                 </a>
               </div>
               <div className="md:hidden">
