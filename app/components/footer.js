@@ -17,7 +17,7 @@ function Footer() {
         <div className="text-white  text-sm sm:text-xl m-10 font-medium ">
           <p>
             Join our mailing list to stay in sync with our newest feature
-            releases, NFT drops, and tips and tricks for navigating Pindown.
+            releases, NFT drops, and tips and tricks for navigating pindrop.
           </p>
         </div>
         <div className="sm:flex sm:justify-around">

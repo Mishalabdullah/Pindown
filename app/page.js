@@ -62,13 +62,13 @@ export default function Home() {
             <div className="flex justify-center m-5">
               {" "}
               <h1 className="font-bold text-2xl sm:text-5xl items-center ">
-                WHY PINDOWN ?
+                WHY pindrop ?
               </h1>
             </div>
             <div>
               {" "}
               <h1 className="font-bold  text-xl sm:text-4xl text-center items-center ">
-                Pindown is a blockchain-based document verifier.{" "}
+                pindrop is a blockchain-based document verifier.{" "}
               </h1>
             </div>
           </div>
@@ -86,7 +86,7 @@ export default function Home() {
                 issuer can specify the link to the document and receiver address
                 and the source(issuer public key) is signed by the issuer.
                 Anyone can also easily verify the same details through the
-                PinDown Dapp.
+                pindrop Dapp.
               </p>
             </div>
           </div>
@@ -101,7 +101,7 @@ export default function Home() {
                     only the issuer can specify the link to the document and
                     receiver address, and the source (issuer public key) is
                     signed by the issuer. Anyone can also easily verify the same
-                    details through the PinDown Dapp.
+                    details through the pindrop Dapp.
                   </p>
                 </div>
 
@@ -123,7 +123,7 @@ export default function Home() {
                     issuer can specify the link to the document and receiver
                     address and the source(issuer public key) is signed by the
                     issuer. Anyone can also easily verify the same details
-                    through the PinDown Dapp.
+                    through the pindrop Dapp.
                   </p>
                 </div>
               </div>
@@ -135,7 +135,7 @@ export default function Home() {
         <div>
           <div className="flex items-center justify-center m-5">
             <h1 className="font-bold  text-2xl  sm:text-5xl items-center">
-              HOW TO USE PINDOWN ?
+              HOW TO USE pindrop ?
             </h1>
           </div>
 

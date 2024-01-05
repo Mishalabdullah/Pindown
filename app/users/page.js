@@ -34,7 +34,7 @@ export default function Verified() {
                 <td className="py-2 px-4">
                   0x9e4a8e1b413cb2182f9f1e7aa1e2d90f7efb23f3
                 </td>
-                <td className="py-2 px-4 text-center">Pindown</td>
+                <td className="py-2 px-4 text-center">pindrop</td>
               </tr>
               <tr className="border-b">
                 <td className="py-2 px-4 rounded-lg flex justify-center">
@@ -48,7 +48,7 @@ export default function Verified() {
                 <td className="py-2 px-4">
                   0x8c35f7a7f3c29948e5b370caac7a1db59cda7f7a
                 </td>
-                <td className="py-2 px-4 text-center">Pindown</td>
+                <td className="py-2 px-4 text-center">pindrop</td>
               </tr>
               <tr className="border-b">
                 <td className="py-2 px-4 flex rounded-lg justify-center">
@@ -62,7 +62,7 @@ export default function Verified() {
                 <td className="py-2 px-4">
                   0x3f1d2987c924a8298116a24f49e1b27fe2e63045
                 </td>
-                <td className="py-2 px-4 text-center">Pindown</td>
+                <td className="py-2 px-4 text-center">pindrop</td>
               </tr>
               {/* Add more rows as needed */}
             </tbody>
